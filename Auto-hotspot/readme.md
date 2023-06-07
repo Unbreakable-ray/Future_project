@@ -11,4 +11,4 @@ a software that aims to do hotspots alongside Windows launching.
 * Launch the Hotspot network with the same **password** and **name** that set by the user.
 * Do Hotspot automatically.
 
-![Auto-Hotspot.drawio](./Auto-Hotspot.drawio.png)
+![Auto-Hotspot.drawio](./AutoHotspot.drawio.png)
